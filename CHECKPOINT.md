@@ -72,5 +72,17 @@ NOT submitted. DO NOT submit from this session.
   files authored in this session and the make.fun kit CLI the dispatch
   explicitly directs. The .git hooks in this tree are samples only.
 - Kit: fresh download (see bundle/checkpoint lines below once run).
-- Submission ID and claim code: recorded in
-  ~/workspace/makefun/submissions-2026-11-13.md ONLY, never in chat.
+  kit.tar.gz 8,334,485 bytes, sha256
+  482bfa6dce889fbe6cf8aaac880c97b1ea7b5f9cefabb130c59cf42451a05a80.
+- Bundle: ~/workspace/makefun/bundle-u-eager-stork-81-9647-the-funniest-toaster-error-436406cd.tar.gz
+  (215,500 bytes, sha256 8c89e3e0a424797999fde5373c7b4e2db332d8129bd979bd9916b9f33effd32b),
+  2 sessions (builder 626b2d66 + parent f6c5e262), 2 usage rows (parent only).
+- Local check (commit 09c4e4c, bundle 8c89e3e0): 14 passed, 0 failed,
+  5 skipped, 5 at-submission. thinking_reproduces 32.4% (50/154 lines).
+- SUBMITTED 2026-11-26T02:17:53Z (09:17 WIB). Submission ID
+  01a215a5-23e3-743c-baad-ddbb68c5ad92, title "The Toast That Fought Back",
+  commit 09c4e4c1c144b4cd36023d9b66f2548230758be5, HTTP 202. Claim code in
+  ~/workspace/makefun/submissions-2026-11-13.md ONLY. Live stage verified:
+  scored, outcome not decided; ALL server checks pass; counts in the
+  final at the deadline (2026-11-26T05:10:00Z). Result due 2026-12-18T09:10:00Z.
+  Entry #144 in the submissions file. No prize claimed.
