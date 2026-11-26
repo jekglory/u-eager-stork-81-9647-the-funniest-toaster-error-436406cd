@@ -10,6 +10,8 @@ One line, 117 characters — the error message a kitchen toaster shows its owner
 
 > ERROR 0xBREAD: Toast popped up, looked around, and went back down. It has seen things. It will not be browning today.
 
+The joke is a deadpan error code plus a tiny story arc: the toast pops up, looks around, retreats, and refuses to brown — a traumatised witness, not a burnt slice.
+
 ## Run it
 
 ```sh
